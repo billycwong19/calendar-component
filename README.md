@@ -4,6 +4,8 @@
 
 #
 
+<img src="./public/calendarscreenshot.png" height="200">
+
 ### this component has a theme switcher attached as well so you can play with colors and have fun with that. 
 
 #
