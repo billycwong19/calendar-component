@@ -1,5 +1,6 @@
 # calendar react component
 
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
@@ -32,5 +33,5 @@
 
 #
 
-## component by william wong
+## by William Wong 
 #### https://github.com/billycwong19
