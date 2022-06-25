@@ -26,7 +26,11 @@
 
 #
 
+## References 
+
 ### i used this guys code to base the component off of and made some tweaks and will continue to improve https://dev.to/zhiyueyi/how-to-create-a-simple-react-calendar-with-styled-component-42n6
 
-#### by William Wong
-### https://github.com/billycwong19
+#
+
+## component by william wong
+#### https://github.com/billycwong19
